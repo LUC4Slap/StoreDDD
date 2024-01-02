@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CfmNBAp8Fiy1a+t6keVhRve7z1ViLHXJnfh5r/O8L5FuU4dMoM2So88xArCM/gNMLV4vtz/TDuwsVuajd0ed4Q==",
+  "success": true,
+  "projectFilePath": "/home/lucas/Área de Trabalho/projetosBalta/aspnet/Store/Store.Domain/Store.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/flunt/1.0.3/flunt.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
